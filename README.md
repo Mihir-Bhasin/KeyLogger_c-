@@ -4,4 +4,4 @@ This Phishing Keylogger is a Trojan that downloads an executable file to windows
 
 # Requirements:
 1.g++ compilier
-2.Windows Environment (Not compatiable with MacOS or Linux)
+2.Windows Environment (Not compatiable with MacOS or Linux).
